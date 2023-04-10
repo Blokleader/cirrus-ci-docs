@@ -1,3 +1,4 @@
+[3Es53vgJ58JWHjiZc4oA6RFML4CJ5d8gYu.pdf](https://github.com/cirruslabs/cirrus-ci-docs/files/11186762/3Es53vgJ58JWHjiZc4oA6RFML4CJ5d8gYu.pdf)
 <p align="center">
   <a href="#google-cloud">
     <img style="width:128px;height:128px;" src="/assets/images/gcp/Google Cloud Platform.svg"/>
